@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://ticki.github.io/blog/on-the-controversial-google-manifesto/</loc>
+    <lastmod>2017-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://ticki.github.io/blog/fearless-concurrency-with-hazard-pointers/</loc>
     <lastmod>2017-08-02T00:00:00+00:00</lastmod>
   </url>
@@ -206,6 +211,12 @@
   </url>
   
   <url>
+    <loc>http://ticki.github.io/tags/culture/</loc>
+    <lastmod>2017-08-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://ticki.github.io/tags/data/</loc>
     <lastmod>2016-10-25T23:25:15+02:00</lastmod>
     <priority>0</priority>
@@ -250,6 +261,12 @@
   <url>
     <loc>http://ticki.github.io/tags/formal-verification/</loc>
     <lastmod>2016-09-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ticki.github.io/tags/freedom-of-speech/</loc>
+    <lastmod>2017-08-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -375,13 +392,13 @@
   
   <url>
     <loc>http://ticki.github.io/tags/politics/</loc>
-    <lastmod>2017-04-19T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://ticki.github.io/post/</loc>
-    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -471,7 +488,7 @@
   
   <url>
     <loc>http://ticki.github.io/</loc>
-    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

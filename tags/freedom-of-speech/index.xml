@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Freedom Of Speech on Ticki&#39;s blog</title>
+    <link>http://ticki.github.io/tags/freedom-of-speech/</link>
+    <description>Recent content in Freedom Of Speech on Ticki&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://ticki.github.io/tags/freedom-of-speech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On the Google Manifesto Controversy</title>
+      <link>http://ticki.github.io/blog/on-the-controversial-google-manifesto/</link>
+      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://ticki.github.io/blog/on-the-controversial-google-manifesto/</guid>
+      <description>The infamous manifesto from the (now former) Google employee has made its round on the internet. It alleges an ideological ecochamber and overly commitment to diversity on the work place, as well as reverse discrimination and the alike. He claims that the inequalities are not necessarily due to discrimination but presumably biological differences.
+When he says things like that - especially when he spreads these ideas, he actively supports a culture already existing, where women are vastly underrepresented - without making a proper case of why.</description>
+    </item>
+    
+  </channel>
+</rss>
