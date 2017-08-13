@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://ticki.github.io/blog/the-two-sided-hypocrisy/</loc>
+    <lastmod>2017-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://ticki.github.io/blog/on-the-controversial-google-manifesto/</loc>
     <lastmod>2017-08-09T00:00:00+00:00</lastmod>
   </url>
@@ -337,6 +342,12 @@
   </url>
   
   <url>
+    <loc>http://ticki.github.io/tags/logic/</loc>
+    <lastmod>2017-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://ticki.github.io/tags/lz4/</loc>
     <lastmod>2016-10-25T23:25:15+02:00</lastmod>
     <priority>0</priority>
@@ -392,13 +403,13 @@
   
   <url>
     <loc>http://ticki.github.io/tags/politics/</loc>
-    <lastmod>2017-08-09T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://ticki.github.io/post/</loc>
-    <lastmod>2017-08-09T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -423,6 +434,12 @@
   <url>
     <loc>http://ticki.github.io/tags/regions/</loc>
     <lastmod>2016-06-06T11:06:21+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ticki.github.io/tags/rhetorics/</loc>
+    <lastmod>2017-08-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -488,7 +505,7 @@
   
   <url>
     <loc>http://ticki.github.io/</loc>
-    <lastmod>2017-08-09T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
